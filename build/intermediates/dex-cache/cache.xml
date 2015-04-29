@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/retrofit-1.9.0-6019607a0c456a255f03a2129f7e178a7be37d6f.jar" />
+    </item>
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/picasso-2.5.0-3e6c27ff45dda4b8e824026866949cb31cf06432.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/exploded-aar/com.zendesk/sdk/1.2.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1b63a75923b58749cc3eef60a8887c1e598f4640">
+        <dex dex="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/classes-d779a547b5272ffa0ef04061b52485003887eead.jar" />
+    </item>
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.zxing/android-integration/3.1.0/52707c1c0801b4e1c0ca9bdbabd2dae20d8564d7/android-integration-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="52707c1c0801b4e1c0ca9bdbabd2dae20d8564d7">
+        <dex dex="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/android-integration-3.1.0-b9a7c90b23e58d9303d4ed447fb334b49911adfb.jar" />
+    </item>
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/gson-2.3.1-337273c388a9fbc5784c298e1e6fcdb65876ced2.jar" />
+    </item>
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/okhttp-2.2.0-4ec367ccf8fbd35a1d518ccc1dab63a04aa569af.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/classes-064ba5e78b164b945f39837eac97f5eb85932016.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-cfde98668f6229028b66e54bd8fbce2b7b03a289.jar" />
+    </item>
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/okio-1.2.0-0599ed8c7499587904400fe4bccbc43e50a6f07d.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/classes-e417efc4f2930bb779c1dfb19d8af5561edb911d.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-c5b26b8fc4f644a445ca51c0f3e18e5ad0b09786.jar" />
+    </item>
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.2.0/cb20062e14c523637b7643295418097b48cccec2/okhttp-urlconnection-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="cb20062e14c523637b7643295418097b48cccec2">
+        <dex dex="/Users/apple/Downloads/SampleApp/SampleApp/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.2.0-d63d6566621c66f132cd7039a52bf5db7ff50f3e.jar" />
+    </item>
+
+</items>

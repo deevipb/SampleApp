@@ -1,0 +1,45 @@
+apply plugin: 'com.android.application'
+
+
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '21.1.1'
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 21
+        versionCode 44
+        versionName "1.0.0.1"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    lintOptions {
+        // Don't change this to false
+        abortOnError true
+
+        lintConfig file("lint-rules.xml")
+    }
+}
+
+repositories {
+    maven { url 'https://zendesk.artifactoryonline.com/zendesk/repo/' }
+
+}
+
+configurations.all {
+    // check for updates every build
+    resolutionStrategy.cacheChangingModulesFor 0, 'seconds'
+}
+
+dependencies {
+    compile 'com.google.zxing:android-integration:3.1.0'
+    compile group: 'com.zendesk', name: 'sdk', version: '1.2.0.1', changing: false
+}
+
