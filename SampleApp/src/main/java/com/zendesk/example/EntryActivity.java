@@ -62,7 +62,7 @@ public class EntryActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-//lllllll
+//lllllllutrhjrtjhrjthijfr
         /**
          * Set that our Logger will log. This doesn't rely on {@link com.zendesk.example.BuildConfig}
          * because debug and production variables are currently not propagated to library projects
